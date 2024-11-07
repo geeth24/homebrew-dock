@@ -16,6 +16,5 @@ class Dock < Formula
 
   def install
     virtualenv_install_with_resources
-    bin.install "dock"
   end
 end
