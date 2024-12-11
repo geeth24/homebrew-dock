@@ -1,8 +1,8 @@
 class Dock < Formula
   desc "Dock: A custom Docker CLI tool for managing Docker Compose environments"
   homepage "https://github.com/geeth24/dock"
-  url "https://github.com/geeth24/dock/archive/v1.0.0.tar.gz"
-  sha256 "06d3954fb40b1563d62ab5efbce867a745122fd2823a0205971cfc99d8f33226"
+  url "https://github.com/geeth24/dock/archive/v1.0.1.tar.gz"
+  sha256 "61f5e4c328e9d140fe353a12f91b94a5c70ef1648ac35731f63dbba95e906b26"
   license "MIT"
 
   depends_on "python@3.9"
